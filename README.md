@@ -1,5 +1,5 @@
 # Hello-World
-Thi is first repository 
+This is first repository 
 
 Hello everyone !
 
